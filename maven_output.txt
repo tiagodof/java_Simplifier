@@ -1,0 +1,75 @@
+[[1;34mINFO[m] Scanning for projects...
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--------------------< [0;36mie.tax:irish-tax-calculator[0;1m >---------------------[m
+[[1;34mINFO[m] [1mBuilding Irish Tax Calculator 1.0.0[m
+[[1;34mINFO[m] [1m--------------------------------[ jar ]---------------------------------[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-clean-plugin:2.5:clean[m [1m(default-clean)[m @ [36mirish-tax-calculator[0;1m ---[m
+[[1;34mINFO[m] Deleting /home/ubuntu/projects/java_Simplifier/target
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-resources-plugin:2.6:resources[m [1m(default-resources)[m @ [36mirish-tax-calculator[0;1m ---[m
+[[1;34mINFO[m] Using 'UTF-8' encoding to copy filtered resources.
+[[1;34mINFO[m] skip non existing resourceDirectory /home/ubuntu/projects/java_Simplifier/src/main/resources
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-compiler-plugin:3.1:compile[m [1m(default-compile)[m @ [36mirish-tax-calculator[0;1m ---[m
+[[1;34mINFO[m] Changes detected - recompiling the module!
+[[1;34mINFO[m] Compiling 12 source files to /home/ubuntu/projects/java_Simplifier/target/classes
+[[1;34mINFO[m] -------------------------------------------------------------
+[[1;31mERROR[m] COMPILATION ERROR : 
+[[1;34mINFO[m] -------------------------------------------------------------
+[[1;31mERROR[m] /home/ubuntu/projects/java_Simplifier/src/main/java/ie/tax/calculator/service/PrsiCalculator.java:[54,16] illegal start of expression
+[[1;31mERROR[m] /home/ubuntu/projects/java_Simplifier/src/main/java/ie/tax/calculator/service/PrsiCalculator.java:[55,44] : expected
+[[1;31mERROR[m] /home/ubuntu/projects/java_Simplifier/src/main/java/ie/tax/calculator/service/PrsiCalculator.java:[56,31] : expected
+[[1;31mERROR[m] /home/ubuntu/projects/java_Simplifier/src/main/java/ie/tax/calculator/service/PrsiCalculator.java:[56,33] not a statement
+[[1;31mERROR[m] /home/ubuntu/projects/java_Simplifier/src/main/java/ie/tax/calculator/rules/TaxBands2025.java:[76,16] illegal start of expression
+[[1;31mERROR[m] /home/ubuntu/projects/java_Simplifier/src/main/java/ie/tax/calculator/rules/TaxBands2025.java:[77,54] : expected
+[[1;31mERROR[m] /home/ubuntu/projects/java_Simplifier/src/main/java/ie/tax/calculator/rules/TaxBands2025.java:[78,61] : expected
+[[1;31mERROR[m] /home/ubuntu/projects/java_Simplifier/src/main/java/ie/tax/calculator/rules/TaxBands2025.java:[79,66] : expected
+[[1;31mERROR[m] /home/ubuntu/projects/java_Simplifier/src/main/java/ie/tax/calculator/rules/TaxBands2025.java:[80,67] : expected
+[[1;31mERROR[m] /home/ubuntu/projects/java_Simplifier/src/main/java/ie/tax/calculator/rules/TaxBands2025.java:[81,55] : expected
+[[1;31mERROR[m] /home/ubuntu/projects/java_Simplifier/src/main/java/ie/tax/calculator/rules/TaxBands2025.java:[89,16] illegal start of expression
+[[1;31mERROR[m] /home/ubuntu/projects/java_Simplifier/src/main/java/ie/tax/calculator/rules/TaxBands2025.java:[90,36] : expected
+[[1;31mERROR[m] /home/ubuntu/projects/java_Simplifier/src/main/java/ie/tax/calculator/rules/TaxBands2025.java:[90,38] not a statement
+[[1;31mERROR[m] /home/ubuntu/projects/java_Simplifier/src/main/java/ie/tax/calculator/rules/TaxBands2025.java:[91,20] : expected
+[[1;31mERROR[m] /home/ubuntu/projects/java_Simplifier/src/main/java/ie/tax/calculator/rules/TaxBands2025.java:[91,21] illegal start of expression
+[[1;31mERROR[m] /home/ubuntu/projects/java_Simplifier/src/main/java/ie/tax/calculator/rules/TaxBands2025.java:[91,24] not a statement
+[[1;31mERROR[m] /home/ubuntu/projects/java_Simplifier/src/main/java/ie/tax/calculator/rules/TaxBands2025.java:[99,16] illegal start of expression
+[[1;31mERROR[m] /home/ubuntu/projects/java_Simplifier/src/main/java/ie/tax/calculator/rules/TaxBands2025.java:[100,55] : expected
+[[1;31mERROR[m] /home/ubuntu/projects/java_Simplifier/src/main/java/ie/tax/calculator/rules/TaxBands2025.java:[101,31] : expected
+[[1;31mERROR[m] /home/ubuntu/projects/java_Simplifier/src/main/java/ie/tax/calculator/rules/TaxBands2025.java:[101,33] not a statement
+[[1;34mINFO[m] 20 errors 
+[[1;34mINFO[m] -------------------------------------------------------------
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] [1;31mBUILD FAILURE[m
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] Total time:  0.789 s
+[[1;34mINFO[m] Finished at: 2026-05-13T08:03:25-04:00
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;31mERROR[m] Failed to execute goal [32morg.apache.maven.plugins:maven-compiler-plugin:3.1:compile[m [1m(default-compile)[m on project [36mirish-tax-calculator[m: [1;31mCompilation failure[m: Compilation failure: 
+[[1;31mERROR[m] /home/ubuntu/projects/java_Simplifier/src/main/java/ie/tax/calculator/service/PrsiCalculator.java:[54,16] illegal start of expression
+[[1;31mERROR[m] /home/ubuntu/projects/java_Simplifier/src/main/java/ie/tax/calculator/service/PrsiCalculator.java:[55,44] : expected
+[[1;31mERROR[m] /home/ubuntu/projects/java_Simplifier/src/main/java/ie/tax/calculator/service/PrsiCalculator.java:[56,31] : expected
+[[1;31mERROR[m] /home/ubuntu/projects/java_Simplifier/src/main/java/ie/tax/calculator/service/PrsiCalculator.java:[56,33] not a statement
+[[1;31mERROR[m] /home/ubuntu/projects/java_Simplifier/src/main/java/ie/tax/calculator/rules/TaxBands2025.java:[76,16] illegal start of expression
+[[1;31mERROR[m] /home/ubuntu/projects/java_Simplifier/src/main/java/ie/tax/calculator/rules/TaxBands2025.java:[77,54] : expected
+[[1;31mERROR[m] /home/ubuntu/projects/java_Simplifier/src/main/java/ie/tax/calculator/rules/TaxBands2025.java:[78,61] : expected
+[[1;31mERROR[m] /home/ubuntu/projects/java_Simplifier/src/main/java/ie/tax/calculator/rules/TaxBands2025.java:[79,66] : expected
+[[1;31mERROR[m] /home/ubuntu/projects/java_Simplifier/src/main/java/ie/tax/calculator/rules/TaxBands2025.java:[80,67] : expected
+[[1;31mERROR[m] /home/ubuntu/projects/java_Simplifier/src/main/java/ie/tax/calculator/rules/TaxBands2025.java:[81,55] : expected
+[[1;31mERROR[m] /home/ubuntu/projects/java_Simplifier/src/main/java/ie/tax/calculator/rules/TaxBands2025.java:[89,16] illegal start of expression
+[[1;31mERROR[m] /home/ubuntu/projects/java_Simplifier/src/main/java/ie/tax/calculator/rules/TaxBands2025.java:[90,36] : expected
+[[1;31mERROR[m] /home/ubuntu/projects/java_Simplifier/src/main/java/ie/tax/calculator/rules/TaxBands2025.java:[90,38] not a statement
+[[1;31mERROR[m] /home/ubuntu/projects/java_Simplifier/src/main/java/ie/tax/calculator/rules/TaxBands2025.java:[91,20] : expected
+[[1;31mERROR[m] /home/ubuntu/projects/java_Simplifier/src/main/java/ie/tax/calculator/rules/TaxBands2025.java:[91,21] illegal start of expression
+[[1;31mERROR[m] /home/ubuntu/projects/java_Simplifier/src/main/java/ie/tax/calculator/rules/TaxBands2025.java:[91,24] not a statement
+[[1;31mERROR[m] /home/ubuntu/projects/java_Simplifier/src/main/java/ie/tax/calculator/rules/TaxBands2025.java:[99,16] illegal start of expression
+[[1;31mERROR[m] /home/ubuntu/projects/java_Simplifier/src/main/java/ie/tax/calculator/rules/TaxBands2025.java:[100,55] : expected
+[[1;31mERROR[m] /home/ubuntu/projects/java_Simplifier/src/main/java/ie/tax/calculator/rules/TaxBands2025.java:[101,31] : expected
+[[1;31mERROR[m] /home/ubuntu/projects/java_Simplifier/src/main/java/ie/tax/calculator/rules/TaxBands2025.java:[101,33] not a statement
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
