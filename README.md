@@ -4,7 +4,7 @@ A complete, object-oriented Java application that calculates Irish personal taxe
 
 ## 📌 Overview
 
-This project was built to demonstrate solid Object-Oriented Programming (OOP) principles, clean architecture, and test-driven development (TDD) in Java. It takes a complex real-world domain—the Irish tax system—and models it using clean, maintainable code.
+This project was built to demonstrate solid Object-Oriented Programming (OOP) principles, clean architecture, and test-driven development (TDD) in Java. It takes a complex real-world domain, the Irish tax system, and models it using clean, maintainable code.
 
 ### Features
 * **Income Tax Calculation:** Supports standard (20%) and higher (40%) rate bands.
